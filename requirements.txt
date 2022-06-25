@@ -1,0 +1,6 @@
+python==3.7.1
+numpy==1.21.6
+pyaudio==0.2.11
+torch==1.11.0
+transformers==4.18.0
+playsound==1.2.2
